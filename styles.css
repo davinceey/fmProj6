@@ -146,7 +146,7 @@ p {
   font-family: "Inter", sans-serif;
   padding-bottom: 0.5rem;
 }
-section {
+.img-div{
   position: relative;
   max-width: 43rem;
 }
